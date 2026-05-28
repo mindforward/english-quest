@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "category": "Vocabulary",
+    "question": "What does 'abundant' mean?",
+    "options": ["Very scarce", "Plentiful; more than enough", "Weak or fragile", "Difficult to understand"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "category": "Vocabulary",
+    "question": "Choose the correct meaning of 'benevolent'.",
+    "options": ["Kind and generous", "Extremely angry", "Very lazy", "Easily broken"],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "category": "Vocabulary",
+    "question": "What is a synonym for 'magnificent'?",
+    "options": ["Tiny", "Ordinary", "Splendid", "Boring"],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "category": "Grammar",
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "She don't like coffee.",
+      "She doesn't likes coffee.",
+      "She doesn't like coffee.",
+      "She not like coffee."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "category": "Grammar",
+    "question": "I ___ to the store yesterday.",
+    "options": ["go", "went", "gone", "going"],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "category": "Vocabulary",
+    "question": "What does 'reluctant' mean?",
+    "options": ["Eager to do something", "Unwilling or hesitant", "Very fast", "Extremely happy"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "category": "Grammar",
+    "question": "Choose the correct form: 'This is the ___ movie I have ever seen.'",
+    "options": ["good", "better", "best", "more good"],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "category": "Vocabulary",
+    "question": "What is the opposite of 'optimistic'?",
+    "options": ["Hopeful", "Pessimistic", "Energetic", "Realistic"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "category": "Grammar",
+    "question": "'If I ___ rich, I would travel the world.'",
+    "options": ["am", "was", "were", "be"],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "category": "Vocabulary",
+    "question": "What does 'eloquent' describe?",
+    "options": [
+      "Someone who runs fast",
+      "Fluent and persuasive speaking",
+      "A very tall building",
+      "A type of food"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "category": "Vocabulary",
+    "question": "What is a synonym for 'arduous'?",
+    "options": ["Easy", "Difficult", "Funny", "Quiet"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "category": "Grammar",
+    "question": "She has been studying English ___ three years.",
+    "options": ["since", "for", "from", "during"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "category": "Vocabulary",
+    "question": "What does 'ambiguous' mean?",
+    "options": [
+      "Clear and obvious",
+      "Open to multiple interpretations",
+      "Extremely loud",
+      "Very old"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "category": "Grammar",
+    "question": "The book ___ on the table belongs to me.",
+    "options": ["who", "which", "whose", "whom"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "category": "Vocabulary",
+    "question": "What is the meaning of 'ephemeral'?",
+    "options": ["Lasting forever", "Lasting a very short time", "Extremely heavy", "Very expensive"],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "category": "Grammar",
+    "question": "By next year, I ___ here for a decade.",
+    "options": ["work", "will work", "will have worked", "worked"],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "category": "Vocabulary",
+    "question": "What does 'resilient' mean?",
+    "options": [
+      "Easily broken",
+      "Able to recover quickly",
+      "Extremely stubborn",
+      "Very forgetful"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "category": "Grammar",
+    "question": "Neither the teacher nor the students ___ satisfied.",
+    "options": ["is", "are", "was", "has been"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "category": "Vocabulary",
+    "question": "What is a synonym for 'meticulous'?",
+    "options": ["Careless", "Very careful and precise", "Extremely fast", "Very lazy"],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "category": "Grammar",
+    "question": "I wish I ___ how to swim.",
+    "options": ["know", "knew", "known", "would know"],
+    "answer": 1
+  }
+]
